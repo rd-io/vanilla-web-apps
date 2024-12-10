@@ -30,3 +30,23 @@ The purpose of these applications is to learn why these frameworks exist, and th
 ## This Project is Complete
 After finishing the to-do and calculator apps, and getting Node.js to work in serving these static pages, I consider this project finished. Additional apps can be added if desired.
 For now, I am needing to concentrate on becomming proficient with frameworks to get a job.
+
+---
+<br>
+
+## How To Use
+
+Dependencies:
+- Node v22.12.0+
+
+Clone this repo:
+- `git clone https://github.com/rd-io/vanilla-web-apps.git`
+
+Change directory into the project's folder:
+- `cd vanilla-web-apps`
+
+Run Node on the `server.js` file:
+- `node ./server.js`
+
+Open your browser and navigate to the site:
+- `http://localhost:3000`
