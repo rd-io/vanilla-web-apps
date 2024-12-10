@@ -39,14 +39,18 @@ For now, I am needing to concentrate on becomming proficient with frameworks to 
 Dependencies:
 - Node v22.12.0+
 <br>
+
 Clone this repo:
 - `git clone https://github.com/rd-io/vanilla-web-apps.git`
 <br>
+
 Change directory into the project's folder:
 - `cd vanilla-web-apps`
 <br>
+
 Run Node on the `server.js` file:
 - `node ./server.js`
 <br>
+
 Open your browser and navigate to the site:
 - `http://localhost:3000`
